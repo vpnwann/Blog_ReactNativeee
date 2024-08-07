@@ -17,6 +17,7 @@ npm start
 # OR using Yarn
 yarn start
 ```
+![Screenshot 2024-08-07 092651](https://github.com/user-attachments/assets/b7c70c8e-8fee-4edc-a50a-f22614a85cb5)
 
 ## Step 2: Start your Application
 
